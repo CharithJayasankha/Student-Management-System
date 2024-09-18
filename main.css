@@ -1,0 +1,22 @@
+/* Optional: Additional styling */
+.modal-content {
+  border-radius: 8px;
+}
+
+.modal-header {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+p {
+  margin-bottom: 5px;
+}
